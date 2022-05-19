@@ -1,0 +1,2 @@
+# eBook
+The app is one page that displays the ebooks collection in a table. Each ebook has the following fields: ○ Title (text) ○ Author (text) ○ Genre (list of Fantasy, Literary, Mystery, Non-Fiction, Science Fiction, and Thriller) ○ Review (1-5 stars) ○ Favorite? (boolean) The app should support CRUD operations. And you should be able to sort the table by any field. Assume only a single user. I.e., don’t worry about user management.
